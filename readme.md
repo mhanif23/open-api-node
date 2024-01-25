@@ -1,0 +1,1 @@
+# Testing Open API Platform connected with Node JS
